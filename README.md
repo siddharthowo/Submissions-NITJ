@@ -8,7 +8,7 @@ Submissions and course work carried out by **Siddharth Dey** during Semester 1 o
 
 ```text
 .
-├── MFAI/     # Mathematical Foundations for AI problem sets & notes
-├── PPL/      # Python programming assignments & lab tasks
-├── ADSAL/    # Advanced data structures implementations & experiments
-└── MLL/      # Machine learning models, notebooks & datasets
+├── MFAI/     # Mathematical Foundations for AI
+├── PPL/      # Python programming laboratory
+├── ADSAL/    # Advanced data structures and algorithms laboratory
+└── MLL/      # Machine learning laboratory
