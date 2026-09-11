@@ -1,4 +1,4 @@
-# 🎓 M.Tech Artificial Intelligence — Semester 1
+# M.Tech Artificial Intelligence — Semester 1
 
 Submissions and course work carried out by **Siddharth Dey** during Semester 1 of the M.Tech in Artificial Intelligence program.
 
